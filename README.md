@@ -21,9 +21,9 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks  
-| Backend | Frontend | Tools & DB |
+| Programming Language | Technologies | Tools & DB |
 |--------|----------|------------|
-| C, C++, Java, Python | HTML, CSS, JavaScript, React.js, Tailwind CSS | Git, GitHub, MySQL ,mongoDB|
+| C, C++, Java, Python,JavaScript | HTML, CSS, JavaScript, React.js, Tailwind CSS | Git, GitHub, MySQL ,mongoDB|
 
 ---
 
@@ -65,7 +65,7 @@
 
 > “Coding is like poetry for logic.”  
 
-When I’m off the keyboard, I enjoy trekking in the Western Ghats and Rides Bike 🎯.
+When I’m off the keyboard, I enjoy trekking in the Western Ghats and Riding Bike 🎯.
 
 ---
 
