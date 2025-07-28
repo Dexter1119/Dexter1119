@@ -1,4 +1,4 @@
-#   I’m Pradhumnya C. Kalsait (he/him)
+# Hi There ,  I’m Pradhumnya C. Kalsait (he/him)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4285F4&width=600&lines=Engineering+Student+|+Full-stack+Enthusiast;Building+Projects+|+Solving+DSA;React+Developer+|+Machine+Learning+Explorer;Hackathon+Finalist+|+Open-source+Contributor)](https://git.io/typing-svg)
 
