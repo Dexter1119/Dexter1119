@@ -1,77 +1,87 @@
-# Hi There ,  I’m Pradhumnya C. Kalsait (he/him)
+# 👋 Hi there, I’m Pradhumnya C. Kalsait (he/him)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4285F4&width=600&lines=Engineering+Student+|+Full-stack+Enthusiast;Building+Projects+|+Solving+DSA;React+Developer+|+Machine+Learning+Explorer;Hackathon+Finalist+|+Open-source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Engineering+Student+|+Full-Stack+Enthusiast;React+Developer+|+ML+Explorer;Hackathon+Finalist+|+Open-Source+Contributor;Building+Projects+|+Solving+DSA)](https://git.io/typing-svg)
 
 ---
 
 ## 🎓 About Me
 
-- Pursuing Bachelor’s in Computer Engineering at Government College of Engineering & Research, Avasari Khurd (Savitribai Phule Pune University).  
-- Currently building a **Logic Building Assessments** repository with C++, Java, Python projects.  
-- Experienced in creating **interactive UIs** using React.js + Tailwind CSS.  
-- Competent in **Machine Learning** basics and problem-solving (DSA).  
-- Strongly interested in:
-  - Real-time interfaces & state management  
+- 💻 Final-year Computer Engineering student at **GCOEARA (SPPU)**  
+- 👨‍💻 Currently building a **Logic Building Assessments** repo in C++, Java, and Python  
+- ⚛️ Skilled in creating **interactive UIs** with **React.js + Tailwind CSS**  
+- 🤖 Exploring **Machine Learning** fundamentals and algorithmic thinking  
+- 🧠 Strongly interested in:
+  - Real-time apps & UI state management  
   - Full-Stack Development  
-  - Competitive programming & algorithms  
-- Gratefully guided and mentored in **ML And logic building** by **Baba (Piyush Manohar Khairnar)** 🙏
+  - Competitive Programming & DSA  
+
+> 🧙‍♂️ Guided in ML and logic-building by **Baba (Piyush Manohar Khairnar)** 🙏
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Languages & Frameworks  
-| Programming Language | Technologies | Tools & DB |
-|--------|----------|------------|
-| C, C++, Java, Python,JavaScript | HTML, CSS, JavaScript, React.js, Tailwind CSS | Git, GitHub, MySQL ,mongoDB|
+### 💡 Languages | Libraries | Tools
 
----
-
-## 📈 GitHub Stats  
-
-![Pradhumnya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Dexter1119&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter1119&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Dexter1119&theme=radical)
+| Languages            | Frontend                  | Backend & Tools          |
+|----------------------|---------------------------|---------------------------|
+| C, C++, Java, Python | HTML, CSS, JavaScript     | Git, GitHub, MySQL, MongoDB |
+|                      | React.js, Tailwind CSS    | Node.js (Basics)          |
 
 ---
 
-## 🚀 Projects & Contributions
+## 📈 GitHub Stats
 
-- **Hospital Food Management System**  
-  → Multi-portal system developed with React.js + Tailwind CSS. Features state management and real-time updates to manage hospital food requests and workflows.
-
-- **Vritrahan - Organ Transplant Management System** *(Smart India Hackathon 2024 Runner-Up)*  
-  → Full-stack multi-portal application built with React.js, styled-components, and state management. Designed to streamline organ transplant processes for hospitals, doctors, patients, and administrators.
-
-- **StayTrack - AI-powered Smart Diagnosis System** *(Selected for i2i Competition)*  
-  → Prototype for early disease detection using AI tools and digital-first healthcare approaches, focusing on Indian healthcare challenges.
-
-- **To-Do List App**  
-  → Simple but effective front-end app demonstrating component-based architecture and persistent local storage functionality.
-
-- **Wedding Management System**  
-  → PHP + MySQL based web app connecting event management companies with clients. Includes admin and user portal with rich documentation.
+![Pradhumnya’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dexter1119&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter1119&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dexter1119&theme=radical&hide_border=true)
 
 ---
 
-## 📫 Connect with Me
+## 🚀 Projects & Highlights
 
-- 📧 Email: kalsaitpc@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/pradhumnya-kalsait-4361a4296)  
+### 🔧 Web & App Projects
+
+- 🏥 **Hospital Food Management System**  
+  Multi-user portal built with **React.js + Tailwind CSS**, managing patient food requests in real-time.
+
+- 🧬 **Vritrahan – Organ Transplant Management System** *(💡 SIH 2024 Finalist)*  
+  Full-stack system built with React, styled-components, and context APIs to streamline organ donation logistics.
+
+- 🧠 **StayTrack – AI-powered Diagnosis System** *(Selected for i2i)*  
+  AI-driven healthcare prototype for early disease prediction in rural India.
+
+- ✅ **To-Do List App**  
+  Simple, clean React app showcasing **component architecture** & **localStorage** persistence.
+
+- 💍 **Wedding Management System**  
+  PHP + MySQL based app connecting clients and event planners, featuring both **admin and user** dashboards.
+
+---
+
+## 🌐 Let's Connect
+
+- 📬 Email: **kalsaitpc@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pradhumnya-kalsait-4361a4296)  
+- 💻 [GitHub](https://github.com/Dexter1119)  
 
 ---
 
 ## ⚡ Fun Fact
 
-> “Coding is like poetry for logic.”  
+> _"Coding is like writing poetry in logic."_  
 
-When I’m off the keyboard, I enjoy trekking in the Western Ghats and Riding Bike 🎯.
+When I’m not coding, you’ll find me:
+- 🏞️ Trekking the **Western Ghats**
+- 🏍️ Riding my bike through the hills
 
 ---
 
-## 🎯 What I’m Looking For
+## 🎯 Currently Looking For
 
-- **Internships , Job  & Projects** in Full-Stack Development, Machine Learning, or Algorithmic roles.  
-- Eager to **collaborate on open-source**, learn new technologies, and contribute to real-world solutions!  
+- 💼 **Internships, job roles, and project collaborations** in:
+  - Full-Stack Development  
+  - Machine Learning  
+  - Algorithms & Problem-Solving
 
-*(Fully open to feedback — let’s build something awesome together!)*  
+> Always open to feedback & collabs — let's build something awesome together! 🚀
