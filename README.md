@@ -1,87 +1,134 @@
-# 👋 Hi there, I’m Pradhumnya C. Kalsait (he/him)
+# 👋 Hey, I’m **Pradhumnya C. Kalsait** (he/him)  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Engineering+Student+|+Full-Stack+Enthusiast;React+Developer+|+ML+Explorer;Hackathon+Finalist+|+Open-Source+Contributor;Building+Projects+|+Solving+DSA)](https://git.io/typing-svg)
 
 ---
 
-## 🎓 About Me
-
-- 💻 Final-year Computer Engineering student at **GCOEARA (SPPU)**  
-- 👨‍💻 Currently building a **Logic Building Assessments** repo in C++, Java, and Python  
-- ⚛️ Skilled in creating **interactive UIs** with **React.js + Tailwind CSS**  
-- 🤖 Exploring **Machine Learning** fundamentals and algorithmic thinking  
-- 🧠 Strongly interested in:
-  - Real-time apps & UI state management  
-  - Full-Stack Development  
-  - Competitive Programming & DSA  
-
-> 🧙‍♂️ Guided in ML and logic-building by **Baba (Piyush Manohar Khairnar)** 🙏
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dexter1119&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="views" />  
+  <img src="https://img.shields.io/github/followers/Dexter1119?style=for-the-badge&logo=github" alt="followers" />  
+  <img src="https://img.shields.io/github/stars/Dexter1119?style=for-the-badge" alt="stars" />  
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🎓 About Me  
 
-### 💡 Languages | Libraries | Tools
+💻 Final-year **Computer Engineering student** at **GCOEARA (SPPU)**  
+⚛️ Passionate about building **Interactive UIs** with **React.js + Tailwind CSS**  
+🤖 Exploring **Machine Learning & Algorithmic Thinking**  
+🏆 Hackathon Finalist | Open Source Contributor  
+🧠 Strong interests in **Real-Time Apps**, **Full-Stack Dev**, and **DSA**  
 
-| Languages            | Frontend                  | Backend & Tools          |
-|----------------------|---------------------------|---------------------------|
-| C, C++, Java, Python | HTML, CSS, JavaScript     | Git, GitHub, MySQL, MongoDB |
-|                      | React.js, Tailwind CSS    | Node.js (Basics)          |
-
----
-
-## 📈 GitHub Stats
-
-![Pradhumnya’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dexter1119&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter1119&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dexter1119&theme=radical&hide_border=true)
+> Guided in ML and Logic-Building by **Baba (Piyush Manohar Khairnar)** 🙏  
 
 ---
 
-## 🚀 Projects & Highlights
+## 🛠️ Tech Stack  
+<p align="center">
 
-### 🔧 Web & App Projects
+### 🔹 Core Languages  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-- 🏥 **Hospital Food Management System**  
-  Multi-user portal built with **React.js + Tailwind CSS**, managing patient food requests in real-time.
+### 🎨 Frontend Development  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
-- 🧬 **Vritrahan – Organ Transplant Management System** *(💡 SIH 2024 Finalist)*  
-  Full-stack system built with React, styled-components, and context APIs to streamline organ donation logistics.
+### ⚙️ Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-00648B?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-- 🧠 **StayTrack – AI-powered Diagnosis System** *(Selected for i2i)*  
-  AI-driven healthcare prototype for early disease prediction in rural India.
+### 🤖 Machine Learning & Data  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  
 
-- ✅ **To-Do List App**  
-  Simple, clean React app showcasing **component architecture** & **localStorage** persistence.
+### 🛠 IDEs & Tools  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
 
-- 💍 **Wedding Management System**  
-  PHP + MySQL based app connecting clients and event planners, featuring both **admin and user** dashboards.
+### 🔧 Version Control & Collaboration  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)  
+
+</p>
+
+
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dexter1119&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter1119&layout=compact&theme=radical&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dexter1119&theme=radical&hide_border=true" height="160px"/>  
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dexter1119&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-## 🌐 Let's Connect
+## 🚀 Featured Projects  
 
-- 📬 Email: **kalsaitpc@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pradhumnya-kalsait-4361a4296)  
-- 💻 [GitHub](https://github.com/Dexter1119)  
+## 🚀 Projects & Highlights  
+
+| Project                                                             | Description                                                         | Tech Used               |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------- |
+| 🏥 **Hospital Food Management System**                              | Multi-user portal for patient food requests in real-time            | React.js + Tailwind CSS |
+| 🧬 **Vritrahan – Organ Transplant System** *(💡 SIH 2024 Finalist)* | Full-stack system streamlining organ donation logistics             | React, Context API      |
+| ✅ **To-Do List App**                                               | Simple React app with **localStorage persistence**                  | React.js                |
+| 💍 **Wedding Management System**                                    | Client–Planner portal with Admin/User dashboards                    | PHP + MySQL             |
+| 🌐 **Personal Portfolio Website**                                   | Responsive portfolio showcasing projects & skills                   | React.js + Tailwind CSS |
+| 📘 **Logic Building Assessments**                                   | Repository of C++, Java, Python solutions for DSA & logic-building  | C++, Java, Python       |
+| 📊 **Social Media Task System**                                     | User form + admin dashboard for uploading/monitoring images         | React.js + Node.js      |
+| 🗂️ **File System Automation Scripts**                              | Automated scripts for file handling & system tasks                  | Python, Shell Scripting |
+| 🤖 **ML Mini Projects**                                             | Collection of ML models (Iris–KNN, Titanic–LogReg, Cancer–RF, etc.) | Python, scikit-learn    |
+| 🖥️ **React Internship Projects @ Codetech**                        | Landing Page, Portfolio, Hospital Food Mgmt., To-Do App             | React.js, Tailwind CSS  |
+| 💾 **CVFS – Customized Virtual File System**                        | Virtual file system implementation with file handling, command interpreter & custom operations | C |
 
 ---
 
-## ⚡ Fun Fact
+## 🌐 Connect with Me  
 
-> _"Coding is like writing poetry in logic."_  
-
-When I’m not coding, you’ll find me:
-- 🏞️ Trekking the **Western Ghats**
-- 🏍️ Riding my bike through the hills
+<p align="center">
+  <a href="mailto:kalsaitpc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pradhumnya-kalsait-4361a4296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Dexter1119"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 🎯 Currently Looking For
+## ⚡ Fun Fact  
 
-- 💼 **Internships, job roles, and project collaborations** in:
-  - Full-Stack Development  
-  - Machine Learning  
-  - Algorithms & Problem-Solving
+ _"Coding is like writing poetry in logic."_ 🎭  
 
-> Always open to feedback & collabs — let's build something awesome together! 🚀
+🌄 Trekking the **Western Ghats** | 🏍️ Riding through the Hills  
+
+---
+
+## 🎯 Opportunities  
+
+💼 Open to **Internships | Job Roles | Project Collaborations** in:  
+- Full-Stack Development  
+- Machine Learning  
+- DSA & Competitive Programming  
+
+---
+✨ _Let’s collaborate and build something amazing!_ 🚀
