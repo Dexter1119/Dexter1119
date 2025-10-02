@@ -20,10 +20,8 @@
 🏆 Hackathon Finalist | Open Source Contributor  
 🧠 Strong interests in **Real-Time Apps**, **Full-Stack Dev**, and **DSA**  
 
-> Guided in ML and Logic-Building by **Baba (Piyush Manohar Khairnar)** 🙏  
 
 ---
-
 ## 🛠️ Tech Stack  
 <p align="center">
 
