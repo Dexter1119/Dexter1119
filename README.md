@@ -1,132 +1,302 @@
-# 👋 Hey, I’m **Pradhumnya C. Kalsait** (he/him)  
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Engineering+Student+|+Full-Stack+Enthusiast;React+Developer+|+ML+Explorer;Hackathon+Finalist+|+Open-Source+Contributor;Building+Projects+|+Solving+DSA)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Pradhumnya%20C.%20Kalsait&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Computer%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast&descAlignY=58&descSize=16&descColor=ffffffaa" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hey+there!+I'm+Pradhumnya+%F0%9F%91%8B;Computer+Engineering+%7C+Full-Stack+Development;React+%7C+Python+%7C+Machine+Learning;C+%7C+C%2B%2B+%7C+Java+%7C+DSA;Building+Projects+%7C+Learning+Every+Day+%F0%9F%9A%80" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dexter1119&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="views" />  
-  <img src="https://img.shields.io/github/followers/Dexter1119?style=for-the-badge&logo=github" alt="followers" />  
-  <img src="https://img.shields.io/github/stars/Dexter1119?style=for-the-badge" alt="stars" />  
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/pradhumnya-kalsait-4361a4296"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:kalsaitpc@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Dexter1119"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-## 🎓 About Me  
+<br/><br/>
 
-💻 Final-year **Computer Engineering student** at **GCOEARA (SPPU)**  
-⚛️ Passionate about building **Interactive UIs** with **React.js + Tailwind CSS**  
-🤖 Exploring **Machine Learning & Algorithmic Thinking**  
-🏆 Hackathon Finalist | Open Source Contributor  
-🧠 Strong interests in **Real-Time Apps**, **Full-Stack Dev**, and **DSA**  
+<img src="https://komarev.com/ghpvc/?username=Dexter1119&label=Profile+Views&color=58A6FF&style=flat-square" /> <img src="https://img.shields.io/github/followers/Dexter1119?label=Followers&style=flat-square&color=58A6FF" /> <img src="https://img.shields.io/github/stars/Dexter1119?label=Stars&style=flat-square&color=58A6FF" />
 
+</div>
 
----
-## 🛠️ Tech Stack  
-<p align="center">
+## 👨‍💻 About Me
 
-### 🔹 Core Languages  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+```python
+class Pradhumnya:
 
-### 🎨 Frontend Development  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+    name     = "Pradhumnya C. Kalsait"
+    degree   = "B.E. Computer Engineering"
+    focus    = "Full-Stack Development, AI/ML & Systems"
+    location = "Pune, Maharashtra 🇮🇳"
 
-### ⚙️ Backend & Databases  
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00648B?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+    languages = [
+        "C", "C++", "Java",
+        "Python", "JavaScript"
+    ]
 
-### 🤖 Machine Learning & Data  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  
+    technologies = [
+        "React", "Node.js", "PHP",
+        "MySQL", "MongoDB",
+        "NumPy", "Pandas",
+        "Scikit-learn"
+    ]
 
-### 🛠 IDEs & Tools  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+    interests = [
+        "Full-Stack Development",
+        "Machine Learning",
+        "Computer Vision",
+        "Data Structures & Algorithms",
+        "Systems Programming",
+        "Automation"
+    ]
 
-### 🔧 Version Control & Collaboration  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)  
+    mindset = "Learn → Build → Debug → Improve"
+```
 
-</p>
-
-
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dexter1119&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter1119&layout=compact&theme=radical&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dexter1119&theme=radical&hide_border=true" height="160px"/>  
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dexter1119&theme=radical&no-frame=true&margin-w=10" />
-</p>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Dexter1119&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" />
 
 ---
 
-## 🚀 Featured Projects  
+## 🛠️ Tech Stack
 
-## 🚀 Projects & Highlights  
+**Languages**
 
-| Project                                                             | Description                                                         | Tech Used               |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------- |
-| 🏥 **Hospital Food Management System**                              | Multi-user portal for patient food requests in real-time            | React.js + Tailwind CSS |
-| 🧬 **Vritrahan – Organ Transplant System** *(💡 SIH 2024 Finalist)* | Full-stack system streamlining organ donation logistics             | React, Context API      |
-| ✅ **To-Do List App**                                               | Simple React app with **localStorage persistence**                  | React.js                |
-| 💍 **Wedding Management System**                                    | Client–Planner portal with Admin/User dashboards                    | PHP + MySQL             |
-| 🌐 **Personal Portfolio Website**                                   | Responsive portfolio showcasing projects & skills                   | React.js + Tailwind CSS |
-| 📘 **Logic Building Assessments**                                   | Repository of C++, Java, Python solutions for DSA & logic-building  | C++, Java, Python       |
-| 📊 **Social Media Task System**                                     | User form + admin dashboard for uploading/monitoring images         | React.js + Node.js      |
-| 🗂️ **File System Automation Scripts**                              | Automated scripts for file handling & system tasks                  | Python, Shell Scripting |
-| 🤖 **ML Mini Projects**                                             | Collection of ML models (Iris–KNN, Titanic–LogReg, Cancer–RF, etc.) | Python, scikit-learn    |
-| 🖥️ **React Internship Projects @ Codetech**                        | Landing Page, Portfolio, Hospital Food Mgmt., To-Do App             | React.js, Tailwind CSS  |
-| 💾 **CVFS – Customized Virtual File System**                        | Virtual file system implementation with file handling, command interpreter & custom operations | C |
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+
+**AI / Data**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=plotly\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat-square\&logo=opencv\&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square\&logo=androidstudio\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                | What it does                                                                               | Tech                                      |
+| -------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------- |
+| 🛰️ **GMRT Internship Project**        | Scientific telescope-data processing, RFI analysis, visualization and automation workflows | Python · NumPy · Matplotlib · Flask · SSH |
+| 🧠 **Student Record Finder AI**        | Academic management with role-based access, analytics and AI-assisted insights             | Java · Android · Firebase · Gemini        |
+| 💾 **Customized Virtual File System**  | Systems-oriented virtual file-system implementation and file management                    | C · Data Structures                       |
+| 👁️ **Human Face Recognition System**  | Computer-vision project exploring facial recognition and image processing                  | Python · Computer Vision                  |
+| 🩺 **MediSense**                       | Healthcare-focused application exploring AI-assisted workflows                             | AI/ML · Application Development           |
+| 🧬 **Vritrahan**                       | Organ donation and transplantation management solution                                     | React · Context API · Full-Stack          |
+| 🏥 **Hospital Food Management System** | Multi-user web application for hospital food workflows                                     | React · Tailwind CSS                      |
+| 📱 **Social Media Task System**        | Task submission, management and monitoring platform                                        | React · Node.js                           |
 
 ---
 
-## 🌐 Connect with Me  
+## 🛰️ GMRT Internship
 
-<p align="center">
-  <a href="mailto:kalsaitpc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pradhumnya-kalsait-4361a4296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Dexter1119"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+> **Scientific Data Processing • RFI Analysis • Automation • GUI**
+
+My GMRT internship project represents my exploration beyond conventional web development into **scientific computing and data engineering**.
+
+### What I worked on
+
+* Telescope-data preprocessing and formatting
+* Antenna and channel-wise analysis
+* Statistical analysis and visualization
+* RFI detection and mitigation
+* MAD / IQR / 3-Sigma based analysis
+* Python automation workflows
+* Remote Xtract execution through SSH
+* GUI-based analysis workflow
+
+**Stack:** `Python` · `NumPy` · `Matplotlib` · `Flask` · `SSH` · `Data Processing`
+
+---
+
+## 🧠 AI & Machine Learning
+
+My AI/ML work focuses on applying intelligent systems to practical problems rather than only experimenting with models.
+
+### Areas of Exploration
+
+```text
+Python
+   │
+   ├── Data Processing
+   │      ├── NumPy
+   │      ├── Pandas
+   │      └── Matplotlib
+   │
+   ├── Machine Learning
+   │      └── Scikit-learn
+   │
+   ├── Computer Vision
+   │      └── Face Recognition
+   │
+   └── AI Applications
+          ├── Student Analytics
+          └── Healthcare Systems
+```
 
 ---
 
-## ⚡ Fun Fact  
+## 🏆 Achievements
 
- _"Coding is like writing poetry in logic."_ 🎭  
+### 🥈 Smart India Hackathon 2024
 
-🌄 Trekking the **Western Ghats** | 🏍️ Riding through the Hills  
+**Runner-Up — Vritrahan**
+
+Developed a healthcare-focused organ donation and transplantation platform as part of **Smart India Hackathon 2024**.
+
+### 🚀 i2i Innovation Competition
+
+**Selected — StayTrack**
+
+Worked on **StayTrack**, an AI-driven platform aimed at analyzing student dropout patterns and supporting early intervention through data-driven insights.
 
 ---
 
-## 🎯 Opportunities  
+## 🧩 Problem Solving
 
-💼 Open to **Internships | Job Roles | Project Collaborations** in:  
-- Full-Stack Development  
-- Machine Learning  
-- DSA & Competitive Programming  
+### 💻 Programming Practice
+
+A collection of programming exercises focused on:
+
+* Data Structures & Algorithms
+* Logical problem solving
+* C / C++
+* Java
+* Python
+* Programming fundamentals
+
+### 🐍 Python & ML Assessments
+
+Exercises covering:
+
+* Python programming
+* Data processing
+* Machine-learning fundamentals
+* Algorithmic implementation
+* Practical ML experimentation
 
 ---
-✨ _Let’s collaborate and build something amazing!_ 🚀
+
+## ⚙️ Automation & Systems
+
+I enjoy understanding what happens **behind the application layer**.
+
+### Current Areas
+
+| Area                | Focus                                             |
+| ------------------- | ------------------------------------------------- |
+| 💾 Systems          | File systems, C programming, memory management    |
+| 🔧 Automation       | Python scripts and repetitive workflow automation |
+| 📊 Data             | Processing, analysis and visualization            |
+| 🌐 Remote Execution | SSH-based execution and workflows                 |
+| 🖥️ Scripting       | Shell and Python utilities                        |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dexter1119&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" />
+
+<img height="160" src="https://streak-stats.demolab.com?user=Dexter1119&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<br/>
+
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter1119&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dexter1119/Dexter1119/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dexter1119/Dexter1119/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Dexter1119/Dexter1119/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 Engineering Focus
+
+| Focus             | What I'm Building                                       |
+| ----------------- | ------------------------------------------------------- |
+| 🧠 **DSA**        | Strengthening problem-solving and algorithmic thinking  |
+| 🌐 **Full-Stack** | Building scalable and maintainable web applications     |
+| 🤖 **AI / ML**    | Exploring practical AI-powered applications             |
+| ⚙️ **Systems**    | Understanding low-level programming and system concepts |
+| 📊 **Data**       | Building better processing and analysis pipelines       |
+| 🔧 **Automation** | Turning repetitive workflows into efficient tools       |
+
+---
+
+## 🌱 Beyond Code
+
+| Interest           | What it means to me                                 |
+| ------------------ | --------------------------------------------------- |
+| 🏔️ **Trekking**   | Exploring the Western Ghats                         |
+| 🏍️ **Biking**     | Riding through the hills                            |
+| 🚗 **Automobiles** | Exploring cars and automotive technology            |
+| 📚 **Learning**    | Exploring new technologies and engineering concepts |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Interested in technology, engineering and building useful things? Let's connect.**
+
+<br/>
+
+<a href="https://github.com/Dexter1119">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pradhumnya-kalsait-4361a4296">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kalsaitpc@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*"Learn → Build → Debug → Improve."*
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
