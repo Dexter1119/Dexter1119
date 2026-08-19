@@ -16,41 +16,81 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Pradhumnya:
+<div align="center">
 
-    name     = "Pradhumnya C. Kalsait"
-    degree   = "B.E. Computer Engineering"
-    focus    = "Full-Stack Development, AI/ML & Systems"
-    location = "Pune, Maharashtra 🇮🇳"
+### Pradhumnya C. Kalsait
 
-    languages = [
-        "C", "C++", "Java",
-        "Python", "JavaScript"
-    ]
+**Computer Engineering Graduate  ·  Software Engineer  ·  Problem Solver**
 
-    technologies = [
-        "React", "Node.js", "PHP",
-        "MySQL", "MongoDB",
-        "NumPy", "Pandas",
-        "Scikit-learn"
-    ]
+> *Turning complex problems into clean, practical solutions.*
 
-    interests = [
-        "Full-Stack Development",
-        "Machine Learning",
-        "Computer Vision",
-        "Data Structures & Algorithms",
-        "Systems Programming",
-        "Automation"
-    ]
+<br/>
 
-    mindset = "Learn → Build → Debug → Improve"
-```
+`🧠 Problem Solving`  ·  `🌐 Software Engineering`  ·  `🤖 AI / ML`  ·  `⚙️ Systems`
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Dexter1119&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" />
+</div>
 
 ---
+
+I'm a **2026 Computer Engineering graduate** passionate about building software that is **practical, reliable, and thoughtfully engineered**.
+
+My journey spans **full-stack development, AI/ML, scientific data processing, automation, and system-level programming**. During my research internship at **NCRA-TIFR (GMRT)**, I worked with large-scale astronomical datasets, statistical signal processing, and automated data pipelines. :contentReference[oaicite:1]{index=1}
+
+I enjoy going beyond simply making something work — I like understanding the **problem, designing the right approach, writing clean code, and improving the solution through testing and optimization**.
+
+### 🔍 What Drives Me
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🧠
+**Problem Solving**
+
+DSA · Algorithms  
+Logic · Optimization
+
+</td>
+
+<td width="25%" align="center">
+
+### 🌐
+**Software**
+
+React · Node.js  
+APIs · Databases
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖
+**Intelligence**
+
+ML · Deep Learning  
+Data · Computer Vision
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚙️
+**Systems**
+
+C · C++ · Linux  
+File Systems · Automation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+**Understand the problem → Design the solution → Build it → Make it better**
+
+</div>
 
 ## 🛠️ Tech Stack
 
