@@ -104,6 +104,7 @@ class Pradhumnya:
 | 🛰️ **GMRT Internship Project**        | Scientific telescope-data processing, RFI analysis, visualization and automation workflows | Python · NumPy · Matplotlib · Flask · SSH |
 | 🧠 **Student Record Finder AI**        | Academic management with role-based access, analytics and AI-assisted insights             | Java · Android · Firebase · Gemini        |
 | 💾 **Customized Virtual File System**  | Systems-oriented virtual file-system implementation and file management                    | C · Data Structures                       |
+ 🧠 **Problem Solving** | Programming problems, logical challenges and DSA practice across multiple languages | C · C++ · Java · Python |
 | 👁️ **Human Face Recognition System**  | Computer-vision project exploring facial recognition and image processing                  | Python · Computer Vision                  |
 | 🩺 **MediSense**                       | Healthcare-focused application exploring AI-assisted workflows                             | AI/ML · Application Development           |
 | 🧬 **Vritrahan**                       | Organ donation and transplantation management solution                                     | React · Context API · Full-Stack          |
